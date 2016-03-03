@@ -1,3 +1,3 @@
 # hello-world
 first repository
-hate learning new stuff!!!!!
+- hate learning new stuff!!!!!
